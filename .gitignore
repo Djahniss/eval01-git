@@ -1,4 +1,4 @@
 # gitignore
-motdepasse-wifi.txt        ← un fichier précis
-*.log             ← tous les fichiers qui finissent par .tmp
-brouillon.txt      ← tout un dossier
+motdepasse-wifi.txt        
+*.log             
+brouillon.txt     
